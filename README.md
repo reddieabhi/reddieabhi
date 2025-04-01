@@ -10,7 +10,7 @@ Currently working as a **Software Developer at Jio Platforms**, where I build **
 🔹 Solve complex problems  
 🔹 Explain coding concepts  
 
-## 📈 Work & Projects  
+## 📈 Personal Projects  
 Have a look at my recent projects:  
 🔹 **[Blood Donation App](https://github.com/reddieabhi/Blood_donation/tree/dev)** *(In Progress)* – Locating nearby donors and sending push notifications using **FCM & PostGIS**.  
 🔹 **[School Management Website](https://github.com/reddieabhi/princeschool)** – A platform for student-teacher interactions using **Django & MySQL**.  
