@@ -19,6 +19,7 @@ Currently working as a **Software Developer at Jio Platforms**, where I build **
    - Contributed to building scalable advertising systems, enabling location wise targeting. 
    - Worked on backend systems involving Springboot, Django, Go.
    - Focused on optimizing and automating data pipelines, improving the effciency of the system.
+
 🔹 Coding Tutor
    - Taught Python and Data Structures & Algorithms (DSA) to students and professionals
    - Designed Course materials and assignments to strengthen problem-solving skills and programming fundamentals.
