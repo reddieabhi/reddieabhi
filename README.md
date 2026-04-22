@@ -8,8 +8,7 @@ Currently working as a **Software Engineer at Pocket FM**, where I design system
 🔹 Make things work (most of the time)  
 🔹 Write clean and effcient code in Python, Java, Go.
 🔹 Develop and maintain database clusters.
-🔹 Implement data pipelines
-🔹 Fix bugs, believe me I didn’t create  
+🔹 Fix bugs, believe me I didn’t create 
 🔹 Solve complex problems  
 🔹 Explain coding concepts  
 
