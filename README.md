@@ -1,9 +1,9 @@
 # Hi 👋, I'm Abhinay Reddy! Welcome to my code ground.  
 
 ## 👨‍💻 What I Do?  
-### 🚀 Software Developer | Problem Solver | Tech Enthusiast  
-I love designing **scalable systems** and solving **real-world tech challenges** while optimizing **backend performance**.  
-Currently working as a **Software Developer at Jio Platforms**, where I build **high-performance backend services**that can handle massive data loads.  
+### 🚀 Software Developer | Problem Solver | Tech Enthusiast   
+I enjoy building **scalable systems** and solving real-world engineering problems.
+Currently working as a **Software Engineer at Pocket FM**, where I design systems for content delivery, monetization, and subscriptions at scale.
 
 🔹 Make things work (most of the time)  
 🔹 Write clean and effcient code in Python, Java, Go.
@@ -15,6 +15,11 @@ Currently working as a **Software Developer at Jio Platforms**, where I build **
 
 
 ## Professional Career
+🔹 Software Engineer – Backend | Pocket FM
+   - Building backend systems for high-scale content delivery & subscriptions
+   - Worked on monetization campaigns across 20+ countries, serving 10M+ users per cycle
+   - Improved infrastructure efficiency by ~30% via caching layer migration
+   - Built LLM-powered internal tools to boost engineering productivity
 🔹 Software Developer at Jio Platforms
    - Contributed to building scalable advertising systems, enabling location wise targeting. 
    - Worked on backend systems involving Springboot, Django, Go.
